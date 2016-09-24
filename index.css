@@ -105,6 +105,16 @@ body{
     margin: 150px 0px 0px 0px;
 }
 
+#branchestwitter{
+    position: absolute;
+    top: 1550px;
+    right: 7px;
+    width: 500px;
+    min-height: 0.3%;
+    background: rgba(0,0,0,0.7);
+    margin: 150px 0px 0px 0px;
+}
+
 #follow{
 	position: absolute;
     top: 1%;
