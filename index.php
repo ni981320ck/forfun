@@ -27,6 +27,9 @@
 		        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FYui.Hirasawa.320%2Fposts%2F1229749303714524&width=500" width="500" height="696" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe><br>
 
 		        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fschairnatsuki%2Fposts%2F972507429535178&width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+		    
+		    	<blockquote class="twitter-tweet" data-lang="zh-tw"><p lang="zh" dir="ltr">【晚安】去年的今天，謝謝妳。</p>&mdash; Yue Nai (@Yue_Nai) <a href="https://twitter.com/Yue_Nai/status/778038540370268160">2016年9月20日</a></blockquote>
+			<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 		    </div>
 
 			<div id="rightfacebook">
