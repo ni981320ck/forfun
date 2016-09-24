@@ -3,27 +3,45 @@
 <head>
     <title>Love Natsuki</title>
     <link rel="stylesheet" type="text/css" href="./index.css">
+    <link rel="stylesheet" type="text/css" href="./bat.css">
 </head>
-<body style="background: #D1BBFF; color: #444444;">
-<h1 style="color: #5500FF;">今天跟媽咪組隊Pokemon。
-</h1>
-<p>
-走在路上忽然出現鯉魚王，新手的媽咪正準備捕捉時，爸爸打來了。<br>
-媽媽 <s>氣急敗壞</s> 地說：「謀營啦，我在抓 
-<font size="6"><font face="標楷體"><font color=#FF3333>魚王</font></font></font>！」<br>
-「魚王？在哪！」電話那頭的爸爸好像也十分著急。<br>
-掛上電話後，媽咪說爸爸現在要趕過來。<br>
-<font size="4"><font color=#EE7700><b>鯉魚王</b></font></font>算是常見的神奇寶貝，其實不必那麼大驚小怪。<br>
-又想到長輩們怎麼會知道這點？<br>
-對他們來說，和孩子們一起同樂又能感到新鮮的機會難能可貴。<br>
-<hr>
-想到居然連爸爸都在迷Pokemon就覺得相當不可思議。<br>
-幾分鐘後，爸爸帶著<font size="4"><font color=#0000FF><b>釣竿</b></font></font>出現在我們母女面前。<br>
-<br>
-<a href="https://www.facebook.com/photo.php?fbid=1022136277905626&set=a.436842666434993.1073741827.100003277907696&type=3&theater">圖文來源</a><br>
-<img src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/14354968_1235600666462721_3155576572380645230_n.jpg?oh=e38d1a4d77d21e895510904cc3757c8d&oe=5837F5CE">
-<br>
-</p>
+<body>
+<div id="background"></div>
+<div class="bat"></div>
+	<div id="river">
+		<h1>Pinkie Nai</h1>
+
+			<div id="trunk">
+				<div id="branches4"></div>
+				<div id="branches3"></div>
+				<div id="branches2"></div>
+				<div id="branches1"></div>
+				<div id="branches0"></div>
+			</div>
+
+		    <div id="follow">
+		        <iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2FYui.Hirasawa.320&width=100&height=65&layout=box_count&size=large&show_faces=true&appId=562564170420300" width="100" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+		    </div>
+
+			<div id="leftfacebook">
+		        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FYui.Hirasawa.320%2Fposts%2F1229749303714524&width=500" width="500" height="696" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe><br>
+
+		        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fschairnatsuki%2Fposts%2F972507429535178&width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+		    </div>
+
+			<div id="rightfacebook">
+		    	紀錄遊戲專用帳號 ヽ(✿ﾟ▽ﾟ)ノ<br>
+		        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPinkieNai%2Fposts%2F1793812907543255&width=500" width="250" height="588" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+		        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPinkieNai%2Fposts%2F1794727770785102%3A0&width=500" width="250" height="588" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe><br>	
+
+		        [2015/10] League of Legends 精華第三集<br>
+		        <iframe width="500" height="281" src="https://www.youtube.com/embed/XwmZaVx6B9k" frameborder="0" allowfullscreen></iframe><br>
+
+		        <br><br>網頁設計的小夥伴們<br>
+		        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1244126928955168%26set%3Da.148105701890635.26679.100000736195394%26type%3D3&width=500" width="250" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+		        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D627772247403890%26set%3Da.487088774805572.1073741826.100005133601569%26type%3D3&width=500" width="250" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+		    </div>
+	</div>
 
 </body>
 </html>
