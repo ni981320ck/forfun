@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Love Natsuki</title>
-    <link rel="shortcut icon" href="icon.cio">
+    <link rel="shortcut icon" href="icon.ico">
     <link rel="stylesheet" type="text/css" href="./index.css">
     <link rel="stylesheet" type="text/css" href="./bat.css">
 </head>
