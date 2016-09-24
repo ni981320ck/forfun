@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Love Natsuki</title>
+    <link rel="shortcut icon" href="icon.png">
     <link rel="stylesheet" type="text/css" href="./index.css">
     <link rel="stylesheet" type="text/css" href="./bat.css">
 </head>
