@@ -1,6 +1,6 @@
 body{
-    position: absolute;
-    width: 100%;
+    position: relative;
+    width: 50%;
     margin: 0px;
     padding: 0px;
 }
@@ -15,17 +15,16 @@ body{
 
 #river{
     position: relative;
-    left: 0%;
-    width: 100%;
+    left: 0px;
     min-height: 1450px;
     background: rgba(0,0,0,0);
     margin: 150px 0px 0px 0px;
 }
 
 #river h1{
-	transition: all 1s;
+    transition: all 1s;
     position: relative;
-    text-align:center;
+    left: 552px;
     top: -100px;
     font-size: 50pt;
     color: #CCBBFF;
@@ -34,9 +33,9 @@ body{
 }
 
 #river h1:hover{
-	transition: all 1s;
+    transition: all 1s;
     position: relative;
-    text-align:center;
+    left: 552px;
     top: -100px;
     font-size: 50pt;
     color: #FFB7DD;
@@ -47,8 +46,8 @@ body{
 #trunk{
     position: relative;
     top: -150px;
-    left: 50%;
-    width: 0.5%;
+    left: 712px;
+    width: 7px;
     min-height: 2100px;
     background: rgba(0,0,0,0.7);
     margin: 150px 0px 0px 0px;
@@ -59,7 +58,7 @@ body{
     position: absolute;
     top: 60px;
     right: 7px;
-    width: 500px;
+    width: 520px;
     min-height: 0.3%;
     background: rgba(0,0,0,0.7);
     margin: 150px 0px 0px 0px;
@@ -69,7 +68,7 @@ body{
     position: absolute;
     top: 120px;
     left: 7px;
-    width: 500px;
+    width: 520px;
     min-height: 0.3%;
     background: rgba(0,0,0,0.7);
     margin: 150px 0px 0px 0px;
@@ -79,7 +78,7 @@ body{
     position: absolute;
     top: 750px;
     right: 7px;
-    width: 500px;
+    width: 520px;
     min-height: 0.3%;
     background: rgba(0,0,0,0.7);
     margin: 150px 0px 0px 0px;
@@ -89,7 +88,7 @@ body{
     position: absolute;
     top: 650px;
     left: 7px;
-    width: 500px;
+    width: 520px;
     min-height: 0.3%;
     background: rgba(0,0,0,0.7);
     margin: 150px 0px 0px 0px;
@@ -99,7 +98,7 @@ body{
     position: absolute;
     top: 1050px;
     left: 7px;
-    width: 500px;
+    width: 520px;
     min-height: 0.3%;
     background: rgba(0,0,0,0.7);
     margin: 150px 0px 0px 0px;
@@ -109,30 +108,30 @@ body{
     position: absolute;
     top: 1550px;
     right: 7px;
-    width: 500px;
+    width: 520px;
     min-height: 0.3%;
     background: rgba(0,0,0,0.7);
     margin: 150px 0px 0px 0px;
 }
 
 #follow{
-	position: absolute;
+    position: absolute;
     top: 1%;
-    right: 4.5%;
+    left: 1257px;
 }
 
 #leftfacebook{
-	position: absolute;
+    position: absolute;
     top: 1%;
-    left: 7%;
+    left: 100px;
     font-size: 15pt;
     font-family: Microsoft JhengHei;
 }
 
 #rightfacebook{
-	position: absolute;
+    position: absolute;
     top: 5%;
-    right: 6.5%;
+    left: 823px;
     font-size: 15pt;
     font-family: Microsoft JhengHei;
 }
