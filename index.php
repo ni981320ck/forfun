@@ -44,8 +44,8 @@
 			<div id="rightfacebook">
 				<div id="three">
 					紀錄遊戲專用帳號 ヽ(✿ﾟ▽ﾟ)ノ<br>
-			        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPinkieNai%2Fposts%2F1793812907543255&width=500" width="250" height="588" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-			        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPinkieNai%2Fposts%2F1794727770785102%3A0&width=500" width="250" height="588" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe><br>	
+			        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPinkieNai%2Fposts%2F1793812907543255&width=500" width="247.5" height="588" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+			        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPinkieNai%2Fposts%2F1794727770785102%3A0&width=500" width="247.5" height="588" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe><br>	
 				</div>
 
 				<div id="one">
@@ -55,8 +55,8 @@
 
 				<div id="zero">
 					<br><br>網頁設計的小夥伴們<br>
-		        	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1244126928955168%26set%3Da.148105701890635.26679.100000736195394%26type%3D3&width=500" width="250" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-		        	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D627772247403890%26set%3Da.487088774805572.1073741826.100005133601569%26type%3D3&width=500" width="250" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+		        	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1244126928955168%26set%3Da.148105701890635.26679.100000736195394%26type%3D3&width=500" width="247.5" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+		        	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D627772247403890%26set%3Da.487088774805572.1073741826.100005133601569%26type%3D3&width=500" width="247.5" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 				</div>
 		    </div>
 	</div>
