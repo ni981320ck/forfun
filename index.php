@@ -64,7 +64,7 @@
 		    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPinkieNai%2Fposts%2F1793812907543255&width=500" width="247.5" height="588" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 		    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPinkieNai%2Fposts%2F1794727770785102%3A0&width=500" width="247.5" height="588" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 		    找彩蛋囉 (　ﾟ∀ﾟ)つ
-		    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 				
 			[2015/10] League of Legends 精華第三集<br>
 	        <iframe width="500" height="281" src="https://www.youtube.com/embed/XwmZaVx6B9k" frameborder="0" allowfullscreen></iframe><br>
