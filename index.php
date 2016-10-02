@@ -66,7 +66,7 @@
 		    找彩蛋囉 (　ﾟ∀ﾟ)つ
 		    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 				
-			星光少女 吉茵珂絲 Star Guardian Jinx <br>
+			【史上最棒造型】Star Guardian Jinx 星光少女 吉茵珂絲 <br>
 	        <iframe width="500" height="281" src="https://www.youtube.com/embed/T0yeBCOS6dk" frameborder="0" allowfullscreen></iframe>
 				
 			<br><br>網頁設計的小夥伴們<br>
