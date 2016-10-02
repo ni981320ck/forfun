@@ -66,8 +66,8 @@
 		    找彩蛋囉 (　ﾟ∀ﾟ)つ
 		    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 				
-			[2015/10] League of Legends 精華第三集<br>
-	        <iframe width="500" height="281" src="https://www.youtube.com/embed/XwmZaVx6B9k" frameborder="0" allowfullscreen></iframe><br>
+			星光少女 吉茵珂絲 Star Guardian Jinx <br>
+	        <iframe width="500" height="281" src="https://www.youtube.com/embed/T0yeBCOS6dk" frameborder="0" allowfullscreen></iframe>
 				
 			<br><br>網頁設計的小夥伴們<br>
 	        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1244126928955168%26set%3Da.148105701890635.26679.100000736195394%26type%3D3&width=500" width="247.5" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
