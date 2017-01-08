@@ -1,2 +1,0 @@
-# PinkieWD
-Hello Natsuki
