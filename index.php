@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>For Fun</title>
 <head>
 <style>
 body
@@ -37,7 +38,7 @@ opacity:1;
 
 <body>
 
-<div class="hover"><a href="index.html" title="進入首頁"><img src="door3.png"/><img src="door.png"></a></div>
+<div class="hover"><a href="home.php" title="進入首頁"><img src="door3.png"/><img src="door.png"></a></div>
 
 </body>
 
