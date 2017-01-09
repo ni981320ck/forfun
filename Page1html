@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title>Doraemon</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style>
 /*   *, *:before, *:after {
@@ -74,7 +75,7 @@ b{
 </style>
 </head>
 <body>
-	<div class="topic"><a href="index.html" title="回首頁"><img src="heard.png"></img></a></div>
+	<div class="topic"><a href="home.php" title="回首頁"><img src="heard.png"></img></a></div>
 		<div class="Item">
 			<div class="Txt">		
 				<h2>歷史概要與背景</h2>
